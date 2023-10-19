@@ -1,16 +1,31 @@
-### Hi there 👋
+# Hello, I'm Sheheryar Tariq! 👋
 
-<!--
-**Shery573/Shery573** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate software engineer with a focus on cross-platform app development using Flutter. My expertise extends to backend development with Node.js, Express.js, and databases like PostgreSQL, MongoDB, and Firebase. I'm enthusiastic about creating innovative and user-friendly applications that make a difference.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frontend:** Flutter
+- **Backend:** Node.js, Express.js
+- **Databases:** PostgreSQL, MongoDB, Firebase
+- **Other Technologies:** Git, Docker, REST APIs, GraphQL
+
+## 🌱 Currently Learning
+
+I'm always eager to learn and explore new technologies. Currently, I'm diving deeper into:
+
+- Machine Learning with Python
+- Progressive Web Apps (PWAs)
+- Serverless Architecture
+
+## 🚀 Projects & Contributions
+
+- **[Flutter_background_processes](https://github.com/Shery573/flutter_background_processes):** This project shows the power of isolates in Flutter. It runs a background service that shows a notification and continuously updates data in it.
+- **[Toastification](https://github.com/payam-zahedi/toastification):** This a powerful repository for showing toasts with ease in Flutter
+
+## 📫 Let's Connect
+
+- LinkedIn: https://www.linkedin.com/in/sheheryartariq/
+
+Feel free to reach out if you want to collaborate on a project, have any questions, or want to say hi! I'm always open to interesting conversations and collaboration opportunities. 😊
+
+Happy coding! 🚀
