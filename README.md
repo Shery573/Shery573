@@ -1,10 +1,10 @@
 # Hello, I'm Sheheryar Tariq! 👋
 
-I'm a passionate software engineer with a focus on cross-platform app development using Flutter. My expertise extends to backend development with Node.js, Express.js, and databases like PostgreSQL, MongoDB, and Firebase. I'm enthusiastic about creating innovative and user-friendly applications that make a difference.
+I'm a passionate software engineer with a focus on cross-platform app development using SwiftUI, UIKit, Flutter. My expertise extends to backend development with Node.js, Express.js, and databases like PostgreSQL, MongoDB, and Firebase. I'm enthusiastic about creating innovative and user-friendly applications that make a difference.
 
 ## 🔧 Technologies & Tools
 
-- **Frontend:** Flutter
+- **Frontend:** SwiftUI, UIKit, Flutter
 - **Backend:** Node.js, Express.js
 - **Databases:** PostgreSQL, MongoDB, Firebase
 - **Other Technologies:** Git, Docker, REST APIs, GraphQL
@@ -13,9 +13,9 @@ I'm a passionate software engineer with a focus on cross-platform app developmen
 
 I'm always eager to learn and explore new technologies. Currently, I'm diving deeper into:
 
-- Machine Learning with Python
-- Progressive Web Apps (PWAs)
-- Serverless Architecture
+- On device Machine Learning
+- Core Animations
+- CoreML
 
 ## 🚀 Projects & Contributions
 
